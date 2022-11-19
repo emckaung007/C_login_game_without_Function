@@ -142,6 +142,7 @@ int main() {
                         break;
                     }else{
                         printf("Invalid Option!!!\n");
+                        break;
                     }
 
                 }
